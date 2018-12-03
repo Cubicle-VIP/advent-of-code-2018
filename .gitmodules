@@ -1,0 +1,3 @@
+[submodule "Kevin"]
+	path = Kevin
+	url = https://github.com/S3B4S/advent-of-code-2018
