@@ -10,7 +10,7 @@ If you already have your own solutions on your GitHub profile you can simply add
 
 ```bash
 $ git clone https://github.com/Cubicle-VIP/advent-of-code-2018.git [<custom-dirname>]
-$ git submodule add https://github.com/<user>/<project> [<custom-dirname>]
+$ git submodule add https://github.com/<user>/<project> <your-name>
 ```
 
 ## Initialize new repo
