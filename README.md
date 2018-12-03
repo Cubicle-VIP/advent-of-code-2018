@@ -2,7 +2,7 @@
 :star: A collection of solutions.
 
 ## Submodules
-Since everyone will maintain it's own set of solutions it makes more sense to make use of submodules. Which basically are repositories inside of one repository.
+Since everyone will maintain it's own set of solutions it makes more sense to make use of submodules. Which basically are [repositories inside of a repository](https://media.giphy.com/media/ZLWnbaMlDjzGg/giphy.gif).
 
 ## Add existing project (recommended)
 
