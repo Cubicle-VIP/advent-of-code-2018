@@ -1,5 +1,5 @@
 # Advent Of Code 2018 | Cubicle vip
-A collection of solutions :star:
+:star: A collection of solutions.
 
 ## Submodules
 Since everyone will maintain it's own set of solutions it makes more sense to make use of submodules. Which basically are repositories inside of one repository.
@@ -24,5 +24,5 @@ $ cd <your-name>
 $ git init
 ```
 
-## Help :scream:
+## Help
 If you encounter any problems just reach out to me (Kevin).
