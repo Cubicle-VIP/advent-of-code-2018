@@ -1,3 +1,6 @@
 [submodule "Kevin"]
 	path = Kevin
 	url = https://github.com/S3B4S/advent-of-code-2018
+[submodule "Eric"]
+	path = Eric
+	url = https://github.com/Pluriscient/AOC2018.git
