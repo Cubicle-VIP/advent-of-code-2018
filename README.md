@@ -26,3 +26,6 @@ $ git init
 
 ## Help
 If you encounter any problems just reach out to me (Kevin).
+
+## Read more
+- https://blog.github.com/2016-02-01-working-with-submodules/
