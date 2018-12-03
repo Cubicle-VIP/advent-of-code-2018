@@ -5,7 +5,7 @@
 Since everyone will maintain it's own set of solutions it makes more sense to make use of submodules. Which basically are [repositories inside of a repository](https://media.giphy.com/media/ZLWnbaMlDjzGg/giphy.gif).
 
 ## Update the projects
-Once a day someone should run the update-modules.sh script to update all the submodules to their latest version
+Once a day someone should run the update-modules.sh script to update all the submodules to their latest version.
 
 ## Add existing project (recommended)
 
