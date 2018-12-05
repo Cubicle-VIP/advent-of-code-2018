@@ -4,3 +4,6 @@
 [submodule "Eric"]
 	path = Eric
 	url = https://github.com/Pluriscient/AOC2018.git
+[submodule "Gees"]
+	path = Gees
+	url = https://github.com/GGBRW/AOC2018.git
